@@ -1,0 +1,5 @@
+git init /запуск	
+git status / проверка
+git add /git.txt  назва
+git rm --cached / удалить из загрузки
+git commit -m"сообщение" сохранить и загрузить
