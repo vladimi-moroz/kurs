@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git init /запуск	
 git status / проверка
 git add /git.txt  назва
@@ -28,3 +29,36 @@ git@github.com:user/repository.git
 	: git@github.com:vladimi-moroz/kurs.git
 	: git remote set-url origin git@github.com:vladimi-moroz/kurs.git
 	:git remote set-url origin git@github.com:vladimi-moroz/kurs.git
+=======
+git init /запуск	
+git status / проверка
+git add /git.txt  назва
+git rm --cached / удалить из загрузки
+git commit -m"сообщение" сохранить и загрузить
+git log //Author: volodymyr <moroz.vladimir@sch68.ukr.education>
+	Date:   Thu Mar 23 17:14:41 2023 +0200
+
+   	 сообщение
+ssh-ketgen ключ
+$ cat ~/.ssh/id_rsa.pub просмотр
+ ssh -T git@github.com
+s -al ~/.ssh
+ eval "$(ssh-agent -s)"
+ ssh-add ~/.ssh/id_ed25519
+ssh -T git@github.com
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin youruser@yourserver.com:/path/to/my_project.git
+git push origin master
+
+git remote set-url origin https://git-repo/new-repository.git
+
+git@<repo_url>:<url>/<git_repository>.git
+
+git@github.com:user/repository.git
+	: git@github.com:vladimi-moroz/kurs.git
+	: git remote set-url origin git@github.com:vladimi-moroz/kurs.git
+	:git remote set-url origin git@github.com:vladimi-moroz/kurs.git
+	Работай сцуко
+>>>>>>> 79c385b1f8151fa42b4c384e596b17192a94978d
