@@ -3,3 +3,10 @@ git status / проверка
 git add /git.txt  назва
 git rm --cached / удалить из загрузки
 git commit -m"сообщение" сохранить и загрузить
+git log //Author: volodymyr <moroz.vladimir@sch68.ukr.education>
+	Date:   Thu Mar 23 17:14:41 2023 +0200
+
+   	 сообщение
+ssh-ketgen ключ
+$ cat ~/.ssh/id_rsa.pub просмотр
+ ssh -T git@github.com
