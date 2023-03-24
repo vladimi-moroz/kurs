@@ -28,3 +28,4 @@ git@github.com:user/repository.git
 	: git@github.com:vladimi-moroz/kurs.git
 	: git remote set-url origin git@github.com:vladimi-moroz/kurs.git
 	:git remote set-url origin git@github.com:vladimi-moroz/kurs.git
+	Работай сцуко
